@@ -70,3 +70,15 @@ body{
     color:red;
     display: inline;
 }
+@media(max-width:767px){
+   .title{
+    font-size: 30px;
+   }
+   .min1{
+    margin-left: 65px;
+    width:220px;
+   }
+   .xx{
+    margin-left: 110px;
+   }
+}
